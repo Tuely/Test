@@ -12,6 +12,7 @@ namespace ConsoleApp3
         {
             Console.Write("hello");
             Console.Write("hello");
+            Console.Write("hello");
         }
-    }
+   }
 }
